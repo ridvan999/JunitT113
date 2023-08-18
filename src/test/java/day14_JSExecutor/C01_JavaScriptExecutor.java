@@ -34,6 +34,8 @@ public class C01_JavaScriptExecutor extends TestBase {
         jse.executeScript("alert('Bu is BU KADAR');");
 
         Thread.sleep(5000);
+        System.out.println("github");
+
 
         //
     }
